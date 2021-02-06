@@ -26,3 +26,4 @@ export const restaurantsReducer = (state, action) => {
       throw new Error()
   }
 }
+
