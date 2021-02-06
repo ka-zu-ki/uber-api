@@ -5,4 +5,5 @@ class ApplicationController < ActionController::API
   def fake_load
     sleep(1)
   end
+  
 end
